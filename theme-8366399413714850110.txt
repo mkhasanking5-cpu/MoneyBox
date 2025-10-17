@@ -1448,7 +1448,7 @@
 
         // Telegram Bot Configuration - এখানে আপনার বটের তথ্য দিন
 
-        const BOT_TOKEN = "8096899538:AAFxo40jsD_IMy1Wrt268naK3a_utxJZ3BU"; // আপনার বট টোকেন
+        const BOT_TOKEN = "8259628375:AAE9x00qQHUf1FyeWLiPskl2oibqDBTcCek"; // আপনার বট টোকেন
 
         const ADMIN_CHAT_ID = "7672529326"; // আপনার টেলিগ্রাম চ্যাট আইডি
 
@@ -2204,7 +2204,7 @@
 
             // Telegram API URL তৈরি করুন
 
-            const apiUrl = `https://api.telegram.org/bot${8096899538:AAFxo40jsD_IMy1Wrt268naK3a_utxJZ3BU}/sendMessage?chat_id=${7672529326}&text=${encodeURIComponent(message)}`;
+            const apiUrl = `https://api.telegram.org/bot${8259628375:AAE9x00qQHUf1FyeWLiPskl2oibqDBTcCek}/sendMessage?chat_id=${7672529326}&text=${encodeURIComponent(message)}`;
 
             
 
